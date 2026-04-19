@@ -1,0 +1,18 @@
+id,holderName,type,age,sumAssured,premium,status,phone,email,durationYears
+1001,Rahul Sharma,Life,38,2000000.00,13135.76,Active,9876543210,rahul@email.com,20
+1002,Priya Verma,Health,29,500000.00,3540.00,Active,9812345678,priya@email.com,5
+1003,Amit Patel,Vehicle,45,800000.00,5970.80,Expired,9898989898,amit@email.com,3
+1004,Sunita Rao,Home,52,3000000.00,21983.40,Active,9765432100,sunita@email.com,15
+1005,Kiran Desai,Travel,35,100000.00,619.50,Pending,9700012345,kiran@email.com,1
+1006,Mohan Gupta,Life,60,5000000.00,45430.00,Active,9654321098,mohan@email.com,10
+1007,Neha Joshi,Health,27,300000.00,2124.00,Active,9543210987,neha@email.com,5
+1008,Rajesh Kumar,Vehicle,40,600000.00,4478.10,Expired,9432109876,rajesh@email.com,2
+1009,Rahul Sharma,Life,38,2000000.00,13135.76,Active,9876543210,rahul@email.com,20
+1010,Priya Verma,Health,29,500000.00,3540.00,Active,9812345678,priya@email.com,5
+1011,Amit Patel,Vehicle,45,800000.00,5970.80,Expired,9898989898,amit@email.com,3
+1012,Sunita Rao,Home,52,3000000.00,21983.40,Active,9765432100,sunita@email.com,15
+1013,Kiran Desai,Travel,35,100000.00,619.50,Pending,9700012345,kiran@email.com,1
+1014,Mohan Gupta,Life,60,5000000.00,45430.00,Active,9654321098,mohan@email.com,10
+1015,Neha Joshi,Health,27,300000.00,2124.00,Active,9543210987,neha@email.com,5
+1016,Rajesh Kumar,Vehicle,40,600000.00,4478.10,Expired,9432109876,rajesh@email.com,2
+1017,Ajinkya Mariche,Life,21,500000.00,3245.00,Active,987456120,test@gmail.com,5
