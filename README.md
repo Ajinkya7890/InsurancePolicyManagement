@@ -162,6 +162,7 @@ Through this project, I gained practical experience in:
 ## 👨‍💻 Author
 
 **Ajinkya Mariche**
+**Shrenik Nil**
 
 * B.Tech CSE (Data Science)
 * St. Vincent Pallotti College of Engineering & Technology
